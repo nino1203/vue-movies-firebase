@@ -4,8 +4,11 @@ import VueResource from 'vue-resource'
 import BootstrapVue from 'bootstrap-vue'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
-import { store } from './store'
 import * as firebase from "firebase"
+
+import { store } from './store'
+import router from './router'
+
 Vue.use(BootstrapVue);
 Vue.use(VueResource);
 
@@ -23,5 +26,6 @@ firebase.initializeApp(config);
 new Vue({
   el: '#app',
   store,
+  router,
   render: h => h(App)
 });
