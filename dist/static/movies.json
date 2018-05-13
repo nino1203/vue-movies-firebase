@@ -1,0 +1,408 @@
+[
+   {
+      "nombre":"Ecos mortales",
+      "tipo":"Pelicula",
+      "genero":"Suspenso, Misterio",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"El laberinto del fauno",
+      "tipo":"Pelicula",
+      "genero":"Drama, Fantasia",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"La tumba de las luciernagas",
+      "tipo":"Pelicula",
+      "genero":"Drama, Fantasia",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Seven Souls",
+      "tipo":"Pelicula",
+      "genero":"Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Patch Adams",
+      "tipo":"Pelicula",
+      "genero":"Drama, Comedia",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Filadelfia",
+      "tipo":"Pelicula",
+      "genero":"Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Encuentro de cuarto tipo",
+      "tipo":"Pelicula",
+      "genero":"Ciencia ficcion, suspenso",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Una mente brillante",
+      "tipo":"Pelicula",
+      "genero":"Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"La milla verde",
+      "tipo":"Pelicula",
+      "genero":"Drama, Fantasia",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"La decisión mas dificil",
+      "tipo":"Pelicula",
+      "genero":"Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"La casa de papel",
+      "tipo":"Serie",
+      "genero":"Suspenso, Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Breaking Bad",
+      "tipo":"Serie",
+      "genero":"Drama, Accion",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Steins gate",
+      "tipo":"Serie",
+      "genero":"Suspenso, Ciencia Ficcion",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"El padrino",
+      "tipo":"Pelicula",
+      "genero":"Drama, Accion",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"A space odyssey",
+      "tipo":"Pelicula",
+      "genero":"Ciencia Ficcion, Misterio",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"La lista de Schindler",
+      "tipo":"Pelicula",
+      "genero":"Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"American history X",
+      "tipo":"Pelicula",
+      "genero":"Policiaca",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Cadena perpetua",
+      "tipo":"Pelicula",
+      "genero":"Drama, Policiaco",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"The Silence of the Lambs",
+      "tipo":"Pelicula",
+      "genero":"Terror, Suspenso",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Ciudad de Dios",
+      "tipo":"Pelicula",
+      "genero":"Drama, Policiaco",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"A. I. Inteligencia artificial",
+      "tipo":"Pelicula",
+      "genero":"Drama, Ciencia Ficcion",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"¿Quién engañó a Roger Rabbit?",
+      "tipo":"Pelicula",
+      "genero":"Comedia, Accion",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Memento",
+      "tipo":"Pelicula",
+      "genero":"Drama, Suspenso",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Goodfellas",
+      "tipo":"Pelicula",
+      "genero":"Drama, Suspenso",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Mr Robot",
+      "tipo":"Serie",
+      "genero":"Drama",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Game of thrones",
+      "tipo":"Serie",
+      "genero":"Drama, Fantasia",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Thin red line",
+      "tipo":"Pelicula",
+      "genero":"Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Rick and Morty",
+      "tipo":"Serie",
+      "genero":"Comedia, Ciencia Ficcion",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Stranger Things",
+      "tipo":"Serie",
+      "genero":"Ciencia Ficcion",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Come back to the future",
+      "tipo":"Pelicula",
+      "genero":"Ciencia Ficcion, Accion",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"The end of the f***ing world",
+      "tipo":"Serie",
+      "genero":"Drama, Comedia",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Twin peaks",
+      "tipo":"Serie",
+      "genero":"Drama, Misterio",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Westworld",
+      "tipo":"Serie",
+      "genero":"Drama, Ciencia Ficcion",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"The OA",
+      "tipo":"Serie",
+      "genero":"Drama, Ciencia Ficcion",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"The sinner",
+      "tipo":"Serie",
+      "genero":"Drama, Policiaco",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"The Handmaid's Tale",
+      "tipo":"Serie",
+      "genero":"Drama, Ciencia Ficcion",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Mozart In the Jungle",
+      "tipo":"Serie",
+      "genero":"Comedia, Musical",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Altered Carbon",
+      "tipo":"Serie",
+      "genero":"Acción, Ciencia Ficcion",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Glee",
+      "tipo":"Serie",
+      "genero":"Musical, Comedia",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"American Horror Story",
+      "tipo":"Serie",
+      "genero":"Terror, Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Psicosis",
+      "tipo":"Pelicula",
+      "genero":"Suspenso, Misterio",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"American Beauty",
+      "tipo":"Pelicula",
+      "genero":"Drama",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Babel",
+      "tipo":"Pelicula",
+      "genero":"Drama, Policiaco",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Seven",
+      "tipo":"Pelicula",
+      "genero":"Suspenso, Drama",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Sexto Sentido",
+      "tipo":"Pelicula",
+      "genero":"Suspenso, Misterio",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Pulp Ficcion",
+      "tipo":"Pelicula",
+      "genero":"Drama, Accion",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Reserviur Dogs",
+      "tipo":"Pelicula",
+      "genero":"Suspenso, Policiaco",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Django Unchanted",
+      "tipo":"Pelicula",
+      "genero":"Drama, Western",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"The departed",
+      "tipo":"Pelicula",
+      "genero":"Drama, Policiaco",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"The shining",
+      "tipo":"Pelicula",
+      "genero":"Terror, Misterio",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"La naranja mecanica",
+      "tipo":"Pelicula",
+      "genero":"Drama, Policiaco",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Ojos bien cerrados",
+      "tipo":"Pelicula",
+      "genero":"Suspenso, Drama",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Citizen Kene",
+      "tipo":"Pelicula",
+      "genero":"Drama, Misterio",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Vertigo",
+      "tipo":"Pelicula",
+      "genero":"Suspenso, Misterio",
+      "visto":"false",
+      "boton":""
+   },
+   {
+      "nombre":"Hide and Seek ",
+      "tipo":"Pelicula",
+      "genero":"Terror, Misterio",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"La ventana secreta",
+      "tipo":"Pelicula",
+      "genero":"Misterio, Suspenso",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"Predestination",
+      "tipo":"Pelicula",
+      "genero":"Ciencia Ficcion",
+      "visto":"true",
+      "boton":""
+   },
+   {
+      "nombre":"The time machine",
+      "tipo":"Pelicula",
+      "genero":"Ciencia Ficcion, Aventura",
+      "visto":"true",
+      "boton":""
+   }
+]
